@@ -6,7 +6,7 @@ workflow to analysis PGx module.
 ### Dependencies
 *   Python 3.8+.
 *   [pandas 1.2.4](https://pandas.pydata.org/)
-*   BEDTools 2.27+
+*   [BEDTools 2.27+](https://github.com/arq5x/bedtools2/releases)
 
 ## Usage 
 
